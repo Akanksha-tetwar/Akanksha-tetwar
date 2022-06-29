@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akanksha-tetwar
 - 👀 I’m interested in opportunities in the field of Data Science, Data Engineering and Data Analytics.
-- 🌱 I’m currently learning concepts and implementation of Machine Learning 
+- 🌱 I’m currently learning concepts and implementation of Machine Learning Algorithms.
 - 📫 How to reach me : tetwar.a@northeastern.edu
 
 <!---
